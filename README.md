@@ -50,7 +50,7 @@ Computer Science student at Ain Shams University specializing in **Backend Engin
   <a href="https://www.hackerrank.com/kevin_bastawrous">
     <img src="https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge&logo=hackerrank" alt="HackerRank" />
   </a>
-  <a href="https://leetcode.com/user1901PZ">
+  <a href="https://leetcode.com/Kevo-1">
     <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   </a>
 </p>
