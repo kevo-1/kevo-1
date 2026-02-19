@@ -68,7 +68,7 @@ Computer Science student at **Ain Shams University**, focused on backend systems
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin)](https://linkedin.com/in/kevin-hany)
 [![Codeforces](https://img.shields.io/badge/Codeforces-111111?style=flat-square&logo=codeforces)](https://codeforces.com/profile/kevin.h)
-[![LeetCode](https://img.shields.io/badge/LeetCode-111111?style=flat-square&logo=leetcode)](https://codeforces.com/profile/kevin.h)
+[![LeetCode](https://img.shields.io/badge/LeetCode-111111?style=flat-square&logo=leetcode)](https://leetcode.com/u/kevo-1/)
 [![Email](https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail)](mailto:kevin.bastawrous@gmail.com)
 
 ---
