@@ -58,7 +58,7 @@ Computer Science student at **Ain Shams University**, focused on backend systems
 
 **LeetCode** · 150+ problems solved · focused on data structures and algorithm design
 
-**HackerRank** · `C++ ★★★★★` · `Python ★★★` · `SQL ★★★` · Intermediate SQL Certified
+**HackerRank** · `C++ ★★★★★` · `Python ★★★` · `SQL ★★★` · Intermediate Golang certified · Intermediate SQL Certified
 
 **ECPC 2025** · Ranked **140th** · problem domains: Graphs · DP · Greedy · Optimization
 
