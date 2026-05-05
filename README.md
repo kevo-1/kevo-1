@@ -54,9 +54,9 @@ Computer Science student at **Ain Shams University**, focused on backend systems
 
 ## ♦ Competitive Programming
 
-**Codeforces** · Pupil · Rating **1299** · 650+ problems solved
+**Codeforces** · Specialist · Rating **1467** · 700+ problems solved
 
-**LeetCode** · 150+ problems solved · focused on data structures and algorithm design
+**LeetCode** · 250+ problems solved · focused on data structures and algorithm design
 
 **HackerRank** · `C++ ★★★★★` · `Python ★★★` · `SQL ★★★` · Intermediate Golang certified · Intermediate SQL Certified
 
